@@ -1,0 +1,2 @@
+http\://www.zzy-distributed.com/schema/zzy-service=zzy.distributed.spring.RemoteServiceNamespaceHandler
+http\://www.zzy-distributed.com/schema/zzy-reference=zzy.distributed.spring.RemoteReferenceNamespaceHandler
